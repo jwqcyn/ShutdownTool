@@ -9,8 +9,7 @@ public class ShutdownTool {
     //功能执行语句必须以分号结尾
     public static void main(String[] args) {
         new Windows();
-//        new Shutdown();
-//        new CloseShutdown();
+        System.out.println("测试git拉取和更新");
     }
 
 }
